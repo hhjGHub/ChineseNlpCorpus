@@ -53,6 +53,7 @@
 | 福建公安公众服务           | 0.05 万条福建公安公众服务留言回复数据           | [点击查看](./datasets/galy/intro.ipynb)            |
 | 福建公安公众服务           | 0.08 万条福建公安公众服务信访回复数据           | [点击查看](./datasets/gaxf/intro.ipynb)            |
 | 福建公安公众服务           | 0.67 福建公安公众服务咨询回复数据               | [点击查看](./datasets/gazx/intro.ipynb)            |
+| 福建公安公众服务           | 0.16 万条福建公安公众服务投诉回复数据           | [点击查看](./datasets/gats/intro.ipynb)            |
 | 厦门市人民政府             | 2.5 万条政务办理记录                            | [点击查看](./datasets/gats/intro.ipynb)            |
 | 厦门市集美区人民政府       | 1 万条行政服务网上咨询数据                      | [点击查看](./datasets/govask/intro.ipynb)          |
 | 厦门市集美区人民政府       | 1 万条厦门市集美区投诉数据                      | [点击查看](./datasets/govcom/intro.ipynb)          |
@@ -61,7 +62,8 @@
 | 厦门市湖里区人民政府       | 0.5 万条厦门市湖里区政民互动数据                | [点击查看](./datasets/govhl/intro.ipynb)           |
 | 厦门市行政服务中心         | 0.69 万条行政服务网上咨询数据                   | [点击查看](./datasets/govline/intro.ipynb)         |
 | 厦门市思明区人民政府       | 0.18 万条厦门市思明区人民政府政民互动信件数据   | [点击查看](./datasets/govsm/intro.ipynb)           |
-|                            |                                                 |                                                    |
+| 厦门市同安区人民政府       | 1 万条厦门市同安区咨询建议投诉数据              | [点击查看](./datasets/govtan/intro.ipynb)          |
+| 厦门市翔安区人民政府       | 0.45 万条厦门市翔安区人民政府咨询投诉数据       | [点击查看](./datasets/govxan/intro.ipynb)          |
 
 
 
