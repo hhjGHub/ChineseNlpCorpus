@@ -40,15 +40,28 @@
 | 联通知道 | 20.3 万条联通问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/liantongzhidao/intro.ipynb) |
 | 农行知道 | 4 万条农业银行问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/nonghangzhidao/intro.ipynb) |
 | 保险知道 | 58.8 万条保险行业问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/baoxianzhidao/intro.ipynb) |
-| 搜狗专家 | 11.5 万条法律问答数据，包括用户提问、网友回答 | [点击查看](./datasets/sogouzhuanjia/intro.ipynb) |
+| 搜狗专家 | 11.6 万条法律问答数据，包括用户提问、网友回答 | [点击查看](./datasets/sogouzhuanjia/intro.ipynb) |
 
 # 舆情分析
 
-| 数据集   | 数据概览                    | 下载地址                                  |
-| -------- | --------------------------- | ----------------------------------------- |
-| 厦门公安 | 2.9万条厦门公安在线咨询数据 | [点击查看](./datasets/govpol/intro.ipynb) |
-|          |                             |                                           |
-|          |                             |                                           |
+| 数据集                     | 数据概览                                        | 下载地址                                           |
+| -------------------------- | ----------------------------------------------- | -------------------------------------------------- |
+| 厦门公安                   | 2.9 万条厦门公安在线咨询数据                    | [点击查看](./datasets/govpol/intro.ipynb)          |
+| 福建省网上办事大厅         | 0.57 万条福建省网上办事大厅法人办事数据         | [点击查看](./datasets/fjbslegalperson/intro.ipynb) |
+| 福建省网上办事大厅         | 1 万条福建省网上办事大厅市民办事数据            | [点击查看](./datasets/fjbspersonal/intro.ipynb)    |
+| 福建省人力资源和社会保障厅 | 0.45 万条福建省人力资源和社会保障厅厅长信箱数据 | [点击查看](./datasets/fjrs_filter/intro.ipynb)     |
+| 福建公安公众服务           | 0.05 万条福建公安公众服务留言回复数据           | [点击查看](./datasets/galy/intro.ipynb)            |
+| 福建公安公众服务           | 0.08 万条福建公安公众服务信访回复数据           | [点击查看](./datasets/gaxf/intro.ipynb)            |
+| 福建公安公众服务           | 0.67 福建公安公众服务咨询回复数据               | [点击查看](./datasets/gazx/intro.ipynb)            |
+| 厦门市人民政府             | 2.5 万条政务办理记录                            | [点击查看](./datasets/gats/intro.ipynb)            |
+| 厦门市集美区人民政府       | 1 万条行政服务网上咨询数据                      | [点击查看](./datasets/govask/intro.ipynb)          |
+| 厦门市集美区人民政府       | 1 万条厦门市集美区投诉数据                      | [点击查看](./datasets/govcom/intro.ipynb)          |
+| 厦门市集美区人民政府       | 0.18 万条市民对厦门市集美区政府的建议数据       | [点击查看](./datasets/govsug/intro.ipynb)          |
+| 厦门市海沧区人民政府       | 0.8 万条厦门市海沧区人民政府市民互动交流数据    | [点击查看](./datasets/govhac/intro.ipynb)          |
+| 厦门市湖里区人民政府       | 0.5 万条厦门市湖里区政民互动数据                | [点击查看](./datasets/govhl/intro.ipynb)           |
+| 厦门市行政服务中心         | 0.69 万条行政服务网上咨询数据                   | [点击查看](./datasets/govline/intro.ipynb)         |
+| 厦门市思明区人民政府       | 0.18 万条厦门市思明区人民政府政民互动信件数据   | [点击查看](./datasets/govsm/intro.ipynb)           |
+|                            |                                                 |                                                    |
 
 
 
